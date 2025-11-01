@@ -1,5 +1,12 @@
 # Big Data Project Template
 
+# Project Title
+Comparative Analysis of Content Diversity and Global Reach: Netflix vs Amazon Prime Video
+
+
+# research question
+how do the content libraries of Netflix and amazon prime differ in terms of content type,genre distribution and country of production over the time 
+
 ## Project Overview
 Build a Big Data project using Python, PySpark and Docker. The workflow includes:
 
