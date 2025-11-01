@@ -12,5 +12,5 @@ RUN pip install --upgrade pip
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-
-CMD ["python", "src/fetch_data.py"]
+# Run the full pipeline (fetch + clean)
+CMD ["python", "src/run_pipeline.py"]
