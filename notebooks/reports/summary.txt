@@ -1,0 +1,5 @@
+Total titles: 18478
+Counts by platform:
+platform
+Amazon Prime    9671
+Netflix         8807
